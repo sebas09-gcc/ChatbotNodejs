@@ -1,0 +1,14 @@
+h1{
+    font-family: monospace;
+    display: block;
+    position: relative;   
+}
+
+body{
+    text-align: center;
+    background-image:url("./pabellon.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 85%;
+    background-position: 10%;
+}
+
